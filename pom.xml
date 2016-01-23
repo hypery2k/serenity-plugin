@@ -8,25 +8,30 @@
     <relativePath />
   </parent>
 
-  <groupId>net.thucydides.jenkins</groupId>
-  <artifactId>thucydides</artifactId>
-  <name>Thucydides Jenkins Plugin</name>
+  <groupId>net.serenity.jenkins</groupId>
+  <artifactId>serenity</artifactId>
+  <name>Serenity Jenkins Plugin</name>
   <version>0.2-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
   <scm>
-    <connection>scm:git:ssh://github.com/jenkinsci/thucydides-plugin.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/thucydides-plugin.git</developerConnection>
-    <url>https://github.com/jenkinsci/thucydides-plugin</url>
+    <connection>scm:git:ssh://github.com/hypery2k/thucydides-plugin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/hypery2k/thucydides-plugin.git</developerConnection>
+    <url>https://github.comhypery2k/thucydides-plugin</url>
   </scm>
 
-  <url>http://wiki.jenkins-ci.org/display/JENKINS/Thucydides+Plugin</url>
+  <url>http://wiki.jenkins-ci.org/display/JENKINS/Serenity+Plugin</url>
 
   <developers>
     <developer>
       <id>hwellmann</id>
       <name>Harald Wellmann</name>
       <email>harald.wellmann@gmx.de</email>
+    </developer>
+    <developer>
+      <id>hypery2k</id>
+      <name>Martin Reinhardt</name>
+      <email>contact@martinreinhardt-online.de</email>
     </developer>
   </developers>
 
